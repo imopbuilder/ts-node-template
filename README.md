@@ -7,6 +7,7 @@
 - [Scripts](#scripts)
 
 ## About
+
 This repository leverages the power of Node.js and TypeScript in both development and production environments. During development, the project utilizes ts-node for seamless execution, while in the production phase, the TypeScript code is transpiled using tsc for optimal performance.
 
 ## Prerequisites
@@ -15,6 +16,7 @@ This repository leverages the power of Node.js and TypeScript in both developmen
 - pnpm
 
 ## Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/imopbuilder/ts-node-template.git
@@ -29,6 +31,7 @@ This repository leverages the power of Node.js and TypeScript in both developmen
    pnpm dev
    ```
 ## Scripts
+
    - dev: Develope the application using <code>ts-node</code>.
    - build: Compile TypeScript code to JavaScript using <code>tsc</code>.
    - start: Start the application using <code>node</code>.
