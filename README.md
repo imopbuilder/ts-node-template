@@ -20,7 +20,7 @@ This repository leverages the power of Node.js and TypeScript in both developmen
    ```
 ### Scripts
 
-   - dev: develope the application using ```ts-node```.
+   - dev: develop the application using ```ts-node```.
    - build: compile typeScript files to javaScript using ```tsc```.
    - start: start the application using ```nodejs```.
    - format: format all the files inside the ```src``` directory using ```biomejs```.
