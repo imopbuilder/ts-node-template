@@ -1,4 +1,4 @@
-# Ts-node-template
+# Node-ts-template
 
 ## Table of Contents
 - [About](#about)
