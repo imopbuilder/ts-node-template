@@ -1,38 +1,29 @@
 # Node-ts-template
-
-## Table of Contents
-- [About](#about)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Scripts](#scripts)
-
-## About
+### About
 
 This repository leverages the power of Node.js and TypeScript in both development and production environments. During development, the project utilizes ts-node for seamless execution, while in the production phase, the TypeScript code is transpiled using tsc for optimal performance.
 
-## Prerequisites
+### Prerequisites
 
 - Node.js
 - pnpm
 
-## Installation
-
-1. Clone the repository:
+### Installation
+1. Go the directory
+1. Install dependencies:
    ```bash
-   git clone https://github.com/imopbuilder/ts-node-template.git
-   ```
-2. Install dependencies:
-   ```bash
-   cd ts-node-template
    pnpm install  
    ```
-3. Run the project:
+2. Run the project:
    ```bash
    pnpm dev
    ```
-## Scripts
+### Scripts
 
-   - dev: Develope the application using <code>ts-node</code>.
-   - build: Compile TypeScript code to JavaScript using <code>tsc</code>.
-   - start: Start the application using <code>node</code>.
+   - dev: develope the application using ```ts-node```.
+   - build: compile typeScript files to javaScript using ```tsc```.
+   - start: start the application using ```nodejs```.
+   - format: format all the files inside the ```src``` directory using ```biomejs```.
+   - lint: lint all the files inside the ```src``` directory using ```biomejs```.
+   - check: check all the files inside the ```src``` directory using ```biomejs```.
    
