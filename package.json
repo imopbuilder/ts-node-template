@@ -15,7 +15,7 @@
 		"module-alias": "^2.2.3"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^1.4.1",
+		"@biomejs/biome": "^1.5.2",
 		"@types/node": "^20.10.2",
 		"nodemon": "^3.0.2",
 		"rimraf": "^5.0.5",
